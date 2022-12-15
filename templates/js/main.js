@@ -15,7 +15,7 @@ sup=`
                </ul>
             </li>               
             <li class="menu-li"><a href="./sucursales.html" class="menu-a">Sucursales</a></li>
-            <li class="menu-li" ><a href="/login.html" class="menu-a" >Cuenta</a></li>
+            <li class="menu-li" ><a href="./login.html" class="menu-a" >Cuenta</a></li>
          </ul>
       </div>
    </header>
