@@ -24,7 +24,7 @@ function ir(){
         window.location="/index.html"
     }
     else{
-        window.location="/indexusuario.html"
+        window.location="./indexusuario.html"
     
     }
 
